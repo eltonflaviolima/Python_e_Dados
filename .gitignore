@@ -1,2 +1,5 @@
 # Ambiente virtual
 venv/
+
+#cahe
+__pycache__/
