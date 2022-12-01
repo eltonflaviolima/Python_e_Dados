@@ -1,5 +1,8 @@
 # Ambiente virtual
 venv/
 
-#cahe
+# Cahe
 __pycache__/
+
+# Jupyter Checkepoint
+.ipynb_checkpoints
