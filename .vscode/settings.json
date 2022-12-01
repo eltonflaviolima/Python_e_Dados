@@ -1,0 +1,19 @@
+   
+{
+    "python.defaultInterpreterPath": "C:\\Users\\Elton Flavio\\Desktop\\Pessoal\\Cursos\\LetsCode\\Python_e_Dados\\venv\\Scripts\\python.exe",
+    "python.terminal.activateEnvironment": true,
+    // "python.pythonPath":"C:/Users/Elton Flavio/Desktop/Pessoal/Cursos/LetsCode/Python_e_Dados/venv/Scripts/python.exe",
+    "workbench.iconTheme": "material-icon-theme",
+    "editor.fontFamily": "Fira Code",
+    "editor.fontLigatures": true,
+    "git.autofetch": true,
+    "material-icon-theme.folders.theme": "classic",
+    "terminal.integrated.defaultProfile.windows": "Command Prompt",
+    "workbench.editorAssociations": {
+        "*.xlsx": "cweijan.officeViewer"
+    },
+    "window.zoomLevel": 1,
+    "material-icon-theme.activeIconPack": "react_redux",
+    "material-icon-theme.folders.color": "#42a5f5",
+    "tabnine.experimentalAutoImports": true
+}
